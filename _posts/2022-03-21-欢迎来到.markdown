@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "第一个帖子"
+date:   2022-03-21 20:40:52 +0800
+categories: jekyll update
+---
+
+代码示例
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+啦啦啦
